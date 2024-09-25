@@ -2,10 +2,10 @@
 
 # Personal Information
 
-- **Name:** Ebrahim
-- **Age:** [27]
+- **Name:** Jahn
+- **Age:** [45]
 - **Favorite Color:** [black]
-- **Favorite Language:** [Dari]
+- **Favorite Language:** [English]
 
 # Favorite Restaurants
 
